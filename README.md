@@ -43,4 +43,4 @@
   > This Flask application receives a hex representation of an image as input. The code converts the input hex data into an image. The image is then processed by the model to perform the detection task. After detection, the annotated image is converted back into hex format and sent to the Frontend Team as a JSON.
 
 - ### Example usage using Postman
-  !["Example Usage using Postman"](readme-image\Postman-example-usage.png)
+  !["Example Usage using Postman"](readme-image/Postman-example-usage.png)
