@@ -27,7 +27,7 @@
 # A. Resources
 - ### [Anotated Dataset](https://universe.roboflow.com/school-kwzhr/pothole-fko0z)
 - ### [Base Model yolov8l by Ultralytics](https://github.com/ultralytics/assets/releases/download/v0.0.0/yolov8l.pt)
-- ### [Pothole Detection Model]((https://drive.google.com/drive/folders/1_RbQK4XePotMLD8VEliewattmBs7GSvp?usp=sharing) 
+- ### [Pothole Detection Model](https://drive.google.com/drive/folders/1_RbQK4XePotMLD8VEliewattmBs7GSvp?usp=sharing) 
 
 # B. Inference Model with Flask
 - ### Python 3.10+ I use this version when inference the model
