@@ -29,24 +29,7 @@
 - ### [Base Model yolov8l by Ultralytics](https://github.com/ultralytics/assets/releases/download/v0.0.0/yolov8l.pt)
 - ### [Pothole Detection Model](https://drive.google.com/drive/folders/1_RbQK4XePotMLD8VEliewattmBs7GSvp?usp=sharing) 
 
-# B. Inference Model with Flask
-- ### Python 3.10+ I use this version when inference the model
-- ### Install requirements.txt 
-    ```javascripts
-    pip install -r requirements.txt
-    ```
-- ### Run the flask application
-    ```javascripts
-    python app.py
-    ```
-  ### Disclaimer
-  > This Flask application receives a hex representation of an image as input. The code converts the input hex data into an image. The image is then processed by the model to perform the detection task. After detection, the annotated image is converted back into hex format and sent to the Frontend Team as a JSON.
-
-- ### Example usage using Postman
-  !["Example Usage using Postman"](readme-image/Postman-example-usage.png)
-
-
-# C. Model Performance Metrics
+# B. Model Performance Metrics
 
 - ### Summary model performance
   !["Summary model performance"](readme-image/Summary-model-performance.png)  
@@ -73,3 +56,18 @@
 | Precision(B)       | 0.9967   |
 | Recall(B)          | 0.9966   |
 
+# C. Inference Model with Flask
+- ### Python 3.10+ I use this version when inference the model
+- ### Install requirements.txt 
+    ```javascripts
+    pip install -r requirements.txt
+    ```
+- ### Run the flask application
+    ```javascripts
+    python app.py
+    ```
+  ### Disclaimer
+  > This Flask application receives a hex representation of an image as input. The code converts the input hex data into an image. The image is then processed by the model to perform the detection task. After detection, the annotated image is converted back into hex format and sent to the Frontend Team as a JSON.
+
+- ### Example usage using Postman
+  !["Example Usage using Postman"](readme-image/Postman-example-usage.png)
