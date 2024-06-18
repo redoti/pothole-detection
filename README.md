@@ -44,3 +44,6 @@
 
 - ### Example usage using Postman
   !["Example Usage using Postman"](readme-image/Postman-example-usage.png)
+
+- ### Summary model performance
+  !["Summary model performance"](readme-image/Summary-model-performance.png)  
