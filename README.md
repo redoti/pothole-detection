@@ -37,24 +37,25 @@
 ### Training Metrics
 | Metric         | Value    |
 |----------------|----------|
-| Box Loss       | 0.17395  |
-| Class Loss     | 0.11637  |
-| DFL Loss       | 0.8075   |
+| Box Loss       | 0.26979  |
+| Class Loss     | 0.16355  |
+| DFL Loss       | 0.8193   |
 
 ### Validation Metrics
 | Metric         | Value    |
 |----------------|----------|
-| Box Loss       | 0.17598  |
-| Class Loss     | 0.10428  |
-| DFL Loss       | 0.77256  |
+| Box Loss       | 0.27256  |
+| Class Loss     | 0.15397  |
+| DFL Loss       | 0.78293  |
 
 ### Performance Metrics
 | Metric             | Value    |
 |--------------------|----------|
-| mAP50-95(B)        | 0.9815   |
-| mAP50(B)           | 0.995    |
-| Precision(B)       | 0.9967   |
-| Recall(B)          | 0.9966   |
+| mAP50(B)           | 0.9949   |
+| mAP50-95(B)        | 0.97009  |
+| Precision(B)       | 0.99919  |
+| Recall(B)          | 0.98033  |
+
 
 # C. Inference Model with Flask
 - ### Python 3.10+ I use this version when inference the model
