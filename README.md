@@ -31,8 +31,10 @@
 
 # B. Model Performance Metrics
 
-- ### Summary model performance
+### Summary model performance
   !["Summary model performance"](readme-image/Summary-model-performance.png)  
+
+Full result [wandb](https://wandb.ai/redotiorg/YOLOv8/runs/0w0j3u1o)
 
 ### Training Metrics
 | Metric         | Value    |
