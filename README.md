@@ -45,5 +45,31 @@
 - ### Example usage using Postman
   !["Example Usage using Postman"](readme-image/Postman-example-usage.png)
 
+
+# C. Model Performance Metrics
+
 - ### Summary model performance
   !["Summary model performance"](readme-image/Summary-model-performance.png)  
+
+### Training Metrics
+| Metric         | Value    |
+|----------------|----------|
+| Box Loss       | 0.17395  |
+| Class Loss     | 0.11637  |
+| DFL Loss       | 0.8075   |
+
+### Validation Metrics
+| Metric         | Value    |
+|----------------|----------|
+| Box Loss       | 0.17598  |
+| Class Loss     | 0.10428  |
+| DFL Loss       | 0.77256  |
+
+### Performance Metrics
+| Metric             | Value    |
+|--------------------|----------|
+| mAP50-95(B)        | 0.9815   |
+| mAP50(B)           | 0.995    |
+| Precision(B)       | 0.9967   |
+| Recall(B)          | 0.9966   |
+
