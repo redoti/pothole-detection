@@ -60,6 +60,7 @@ Full result [wandb](https://wandb.ai/redotiorg/YOLOv8/runs/0w0j3u1o)
 
 
 # C. Inference Model with Flask
+- ### Don't forget to download the [Pothole Detection Model](https://drive.google.com/drive/folders/1_RbQK4XePotMLD8VEliewattmBs7GSvp?usp=sharing)
 - ### Python 3.10.14 I use this version when inference the model
 - ### Install requirements.txt 
     ```javascripts
