@@ -60,7 +60,7 @@ Full result [wandb](https://wandb.ai/redotiorg/YOLOv8/runs/0w0j3u1o)
 
 
 # C. Inference Model with Flask
-- ### Python 3.10+ I use this version when inference the model
+- ### Python 3.10.14 I use this version when inference the model
 - ### Install requirements.txt 
     ```javascripts
     pip install -r requirements.txt
